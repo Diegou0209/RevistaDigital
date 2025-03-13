@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Revista Digital</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        a {
+            text-decoration: none;
+            color: #007BFF;
+            font-size: 20px;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>Bienvenido a Mi Revista Digital</h1>
+    <p>Puedes ver o descargar mi revista digital haciendo clic en el siguiente enlace:</p>
+    <a href="https://drive.google.com/file/d/1wNc1yY_m9eu2L6dm24j8M2hcFObsFhrC/view?usp=drivesdk" target="_blank">Descargar Revista</a>
+</body>
+</html>
